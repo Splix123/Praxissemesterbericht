@@ -1,0 +1,45 @@
+\documentclass[a4paper,ngerman,13pt,bibliography=totoc,listof=totoc,numbers=noendperiod]{scrartcl}
+
+% Persönliche Infos
+\input{PersInfo}
+
+% Preambel
+\input{preambel}
+
+
+\begin{document}
+
+\include{Kapitel/Titelseite}
+
+\include{Kapitel/Vermerke}
+
+\pagenumbering{gobble}
+\pagenumbering{Roman}
+% Ab hier Seitenzahlen mit Römischen Ziffern
+
+%Inhaltsverzeichnis
+\tableofcontents
+
+\clearpage
+\pagenumbering{arabic}
+% Ab hier Seitenzahlen in Arabischen Zahlen
+
+\include{Kapitel/Einleitung}
+
+\include{Kapitel/Wochenberichte}
+
+\include{Kapitel/Projektbericht}
+
+\section*{Abkürzungen}
+\addcontentsline{toc}{section}{Abkürzungen}
+
+% Abkürzungsverzeichnis
+\begin{acronym}[NCPA]
+  \acro{NCPA}{New Car Pricing Manager}
+\end{acronym}
+
+% Literaturverzeichnis
+%\printbibliography
+
+\end{document}
+
