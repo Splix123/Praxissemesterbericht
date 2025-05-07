@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.6)  30 APR 2025 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.6)  1 MAY 2025 13:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1017,7 +1017,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip128
 )
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 116.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 115.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1206,27 +1206,66 @@ Overfull \vbox (3.49992pt too high) has occurred while \output is active []
  [2]
 \openout2 = `Kapitel/Einleitung.aux'.
 
- (./Kapitel/Einleitung.tex) [1
+ (./Kapitel/Einleitung.tex
+Overfull \hbox (23.84987pt too wide) in paragraph at lines 3--7
+\OT1/phv/m/n/13 f[]uhrenden Pre-mi-um-her-stel-ler von Au-to-mo-bi-len und Mo-torr[]adern. W[]ahrend
+ []
+
+
+Overfull \hbox (63.42989pt too wide) in paragraph at lines 3--7
+\OT1/phv/m/n/13 vol-le Ein-bli-cke in die Abl[]aufe und Her-aus-for-de-run-gen des IT-Projektmanagements
+ []
+
+
+Overfull \hbox (3.2408pt too wide) in paragraph at lines 10--17
+\OT1/phv/m/n/13 vor-an, un-terst[]utzt die Ent-wick-lung in-tel-li-gen-ter Fer-ti-gungs-pro-zes-se und
+ []
+
+[1
 
 
 ]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 22.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+))
+Overfull \hbox (0.61514pt too wide) in paragraph at lines 27--27
+\OT1/phv/m/n/13 wie Team-ar-beit, Kom-mu-ni-ka-ti-on und Pro-bleml[]osungsf[]ahigkeit st[]arken.
+ []
+
+[2]
 \openout2 = `Kapitel/Wochenberichte.aux'.
 
- (./Kapitel/Wochenberichte.tex) [2
+ (./Kapitel/Wochenberichte.tex [3
 
 
 
 ]
-Overfull \vbox (357.65683pt too high) has occurred while \output is active []
+Overfull \hbox (2.92805pt too wide) in paragraph at lines 20--23
+\OT1/phv/m/n/13 be-ar-bei-te-te ich noch ei-ni-ge not-wen-di-gen on-li-ne Schu-lun-gen []uber Com-
+ []
 
- [3]
+[4]
+Overfull \hbox (7.2572pt too wide) in paragraph at lines 37--38
+\OT1/phv/m/n/13 wochs im Eng-li-schen Gar-ten mit vie-len an-de-ren Prak-ti-kan-ten du Werks-
+ []
+
+[5]
+Overfull \hbox (7.75223pt too wide) in paragraph at lines 41--46
+\OT1/phv/m/n/13 duk-ten be-spro-chen, so-dass es hier zu kei-nen unn[]otigen Verz[]ogerungen
+ []
+
+[6] [7]) [8] [9]
+Overfull \vbox (149.97162pt too high) has occurred while \output is active []
+
+ [10]
 \openout2 = `Kapitel/Projektbericht.aux'.
 
- (./Kapitel/Projektbericht.tex) [4
+ (./Kapitel/Projektbericht.tex) [11
 
 
 
-] [5
+] [12
 
 
 ] (./Semesterbericht.aux (./Kapitel/Titelseite.aux) (./Kapitel/Vermerke.aux) (./Kapitel/Einleitung.aux) (./Kapitel/Wochenberichte.aux) (./Kapitel/Projektbericht.aux))
@@ -1246,18 +1285,18 @@ Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36425 strings out of 474116
- 722166 string characters out of 5743683
+ 36470 strings out of 474116
+ 722807 string characters out of 5743683
  1942187 words of memory out of 5000000
- 58198 multiletter control sequences out of 15000+600000
- 573899 words of font info for 63 fonts, out of 8000000 for 9000
+ 58232 multiletter control sequences out of 15000+600000
+ 574212 words of font info for 64 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,20n,107p,10971b,2379s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (9 pages, 180407 bytes).
+Output written on Semesterbericht.pdf (16 pages, 197404 bytes).
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,1 @@
+{"rule":"GERMAN_SPELLER_RULE","sentence":"^\\QGegen Ende der Woche hatte ich den Großteil der Geräte und Accounts eingerichtet und von Dominik, sowie meinem Kollegen Christian Bachmeier die „New Car Pricing Assistant“ (NCPA) Applikation, mit welcher ich mich den Großteil des Praktikums viel beschäftigen werde, vorgestellt bekommen.\\E$"}

@@ -456,6 +456,11 @@ OUTPUT Kapitel/Einleitung.aux
 INPUT ./Kapitel/Einleitung.tex
 INPUT ./Kapitel/Einleitung.tex
 INPUT Kapitel/Einleitung.tex
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1phv.fd
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/helvetic/phvr8c.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/helvetic/phvr8c.vf
 INPUT ./Kapitel/Wochenberichte.tex
 INPUT ./Kapitel/Wochenberichte.tex
 OUTPUT Kapitel/Wochenberichte.aux
