@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {2.3}KW16 14.04-2025 - 18.04.2025: Ostern}{5}{subsection.7}%
 \contentsline {subsection}{\numberline {2.4}KW17 21.04-2025 - 25.04.2025: PTSO Domain Planning}{6}{subsection.8}%
 \contentsline {subsection}{\numberline {2.5}KW18 28.04-2025 - 02.05.2025: Vertretung}{7}{subsection.9}%
-\contentsline {subsection}{\numberline {2.6}KW19 05.05-2025 - 09.05.2025: Sechste Woche}{10}{subsection.10}%
+\contentsline {subsection}{\numberline {2.6}KW19 05.05-2025 - 09.05.2025: Sechste Woche}{8}{subsection.10}%
 \contentsline {subsection}{\numberline {2.7}KW20 12.05-2025 - 16.05.2025: Siebte Woche}{10}{subsection.11}%
 \contentsline {subsection}{\numberline {2.8}KW21 19.05-2025 - 23.05.2025: Achte Woche}{10}{subsection.12}%
 \contentsline {subsection}{\numberline {2.9}KW22 26.05-2025 - 30.05.2025: Neunte Woche}{10}{subsection.13}%
