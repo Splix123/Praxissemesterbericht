@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  8 MAY 2025 10:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  8 MAY 2025 17:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1218,12 +1218,22 @@ Overfull \hbox (0.61514pt too wide) in paragraph at lines 27--27
 \openout2 = `Kapitel/Wochenberichte.aux'.
 
  (Kapitel/Wochenberichte.tex
+Package acronym Info: Label `acro:DCM' newly defined as it shall be overridden
+although it is yet undefined on input line 3.
+Package acronym Info: Label `acro:NCPA' newly defined as it shall be overridden
+although it is yet undefined on input line 9.
+Package acronym Info: Label `acro:CBS' newly defined as it shall be overridden
+although it is yet undefined on input line 11.
+
 
 [3
 
 
 
 ]
+Package acronym Info: Label `acro:UAT' newly defined as it shall be overridden
+although it is yet undefined on input line 15.
+
 Overfull \hbox (2.92805pt too wide) in paragraph at lines 20--23
 \OT1/phv/m/n/13 be-ar-bei-te-te ich noch ei-ni-ge not-wen-di-gen on-li-ne Schu-lun-gen []uber Com-
  []
@@ -1231,10 +1241,14 @@ Overfull \hbox (2.92805pt too wide) in paragraph at lines 20--23
 
 
 [4]
-Overfull \hbox (7.2572pt too wide) in paragraph at lines 37--38
-\OT1/phv/m/n/13 wochs im Eng-li-schen Gar-ten mit vie-len an-de-ren Prak-ti-kan-ten du Werks-
- []
-
+Package acronym Info: Label `acro:DOPM DC' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+Package acronym Info: Label `acro:OneGPM' newly defined as it shall be overridden
+although it is yet undefined on input line 32.
+Package acronym Info: Label `acro:E2E' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:NAWI' newly defined as it shall be overridden
+although it is yet undefined on input line 37.
 
 
 [5]
@@ -1245,6 +1259,11 @@ Overfull \hbox (7.75223pt too wide) in paragraph at lines 41--46
 
 
 [6]
+Package acronym Info: Label `acro:INT' newly defined as it shall be overridden
+although it is yet undefined on input line 55.
+Package acronym Info: Label `acro:AWS' newly defined as it shall be overridden
+although it is yet undefined on input line 56.
+
 
 [7])
 
@@ -1286,17 +1305,17 @@ Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36773 strings out of 469941
- 734961 string characters out of 5468463
- 1714047 words of memory out of 5000000
- 62976 multiletter control sequences out of 15000+600000
+ 36857 strings out of 469941
+ 735929 string characters out of 5468463
+ 1715101 words of memory out of 5000000
+ 63040 multiletter control sequences out of 15000+600000
  642968 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,20n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (16 pages, 225429 bytes).
+Output written on Semesterbericht.pdf (16 pages, 236969 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 68 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
