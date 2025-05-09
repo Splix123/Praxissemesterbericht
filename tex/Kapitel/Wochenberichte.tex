@@ -1,6 +1,6 @@
 \section{Wochenberichte}
 \subsection{KW14 31.03-2025 - 04.04.2025: Erste Woche}
-Am ersten Tag wurde ich herzlichst von meinem Betreuer Dominik Ulrich an der Hauptpforte des \ac{DCM} (Digital Campus Munich) Empfangen um von dort aus direkt zum FIZ zu laufen und meinen Werksausweis abzuholen. 
+Am ersten Tag wurde ich herzlichst von meinem Betreuer Dominik Ulrich an der Hauptpforte des \ac{DCM} (Digital Campus Munich) Empfangen um von dort aus direkt zum \ac{FIZ} zu laufen und meinen Werksausweis abzuholen. 
 Nachdem ich mich daraufhin den anwesenden persönlich vorgestellt hatte, bekam ich meinen Laptop und ein Arbeitshandy. 
 Die erste Aufgabe bestand dann darin das Onboarding durchzuführen und die Arbeitsgeräte, sowie alle Accounts und Accessanfragen aufzusetzen und zu bearbeiten. 
 Leider war das leichter gesagt als getan und schon das Setzen eines Initialpassworts hatte durch die komplexen Sicherheitsauflagen lange Zeit in Anspruch genommen und nach mehrfachen fehlschlagen einen Besuch bei der In-House IT mit sich geführt. 
@@ -52,36 +52,43 @@ Abschließend zur Woche bearbeitete ich noch die wöchentlichen Meetings zum Reg
 \subsection{KW18 28.04-2025 - 02.05.2025: Vertretung}
 In Woche fünf hatte sich Dominik Urlaub genommen, sodass ich in dieser Zeit als seine Vertretung gesetzt wurde. 
 Diese Rolle wurde dann montags direkt auf die Probe gestellt, nachdem mich ein Tester aus dem Schweizer Markt mit einem Problem im \ac{NCPA} konfrontierte. 
-Es wurde auf der \ac{INT}-Umgebung ein neuer Preis für ein Mini-Modell abgegeben, jedoch war dieser dann nicht auf den Folgesystemen wie der Website oder OFCO zu sehen. 
-Nach etwas Recherche in unserer \ac{AWS}-Datenbank fand ich heraus, dass die Preisänderung im \ac{NCPA} schon fehlerhaft rausgeschickt wurde. 
-In einer kurzen Meeting Session mit dem Schweizer Tester setzten wir zusammen einen neuen Preis, welchen ich dann manuell genehmigen und im \ac{AWS}-Lambda System an die weiteren Systeme pushen konnte. 
+Es wurde auf der \ac{INT}-Umgebung ein neuer Preis für ein Mini-Modell abgegeben, jedoch war dieser dann nicht auf den Folgesystemen wie der Website oder \ac{OFCO} zu sehen. 
+Nach etwas Recherche in unserer \ac{AWS}-Datenbank fand ich heraus, dass die Preisänderung im \ac{NCPA} schon fehlerhaft abgeschickt wurde. 
+In einer kurzen Meetingsession mit dem Schweizer Tester setzten wir zusammen einen neuen Preis, welchen ich dann manuell genehmigen und im \ac{AWS}-Lambda System an die weiteren Systeme pushen konnte. 
 Da der Preis am darauffolgenden Tag korrekt in den Folgesystemen stand gehen wir von einem User Fehler aus. 
 Neben dem Problem des Schweizer Markts und den damit einhergehenden Calls mit einigen Kollegen, durfte ich beim Sprintstart die in der Woche zuvor erstellten \ac{UAT} Wave 4 Progress Slides vorstellen und dem Team die aktuellen, wie auch die vergangenen KPI’s der Tests demonstrieren.
 
 Im weiteren Verlauf der Woche hatte ich noch eine Handvoll Einzel-Gespräche mit unterschiedlichen Leuten der Domain, um das Tech-Stack standardization Thema weiter voranzutreiben, den Onepager auf einen fast fertigen Stand zu bringen und zu diskutieren, wie diese Standardisierungsmaßnahmen am besten durchgeführt werden sollten. 
-Zugleich kam in einem der Regular Defect Meetings der Wunsch zur Erweiterung sowie weitern Verbreitung unter den Teams des von mir erstellten Defect Templates.
+Zugleich kam in einem der Regular Defect Meetings der Wunsch zur Erweiterung sowie weiteren Verbreitung unter den Teams des von mir erstellten Defect Templates.
 
 Da der 1. Mai ein Feiertag ist und nahezu alle meiner Kollegen den Freitag als Brückentag nutzten konnte ich das Ende der Woche dazu nutzen eine veraltete \ac{E2E}-Testanleitung (Ursprünglich von BCG) für das \ac{NCPA} mit frischen Screenshots der UI, aber auch neuen Testschritten bestücken und die ganze Anleitung in unser XRAY Test Management System (eine Erweiterung der JIRA-Plattform, die zum Verwalten von Testprojekten entwickelt wurde) zu übertragen.
 
 Abseits der Arbeit besuchte ich mittwochs wieder den Stammtisch im Englischen Garten der Nachwuchsinitiative.
 
 
-\subsection{KW19 05.05-2025 - 09.05.2025: Sechste Woche}
-\begin{itemize}
-  \item Onboarding Gaia talks --> Merle, Rainer, Phoebe, Dominik
-  \item 1 Month @ BMW --> Feedback von Dominik
-  \item ITCS stuff
-  \item XRAY fertig gemacht
-  \item Onboarding template überarbeitet?
-  \item Book of Standards talk with dominik, Merle and \dots
-  \item Release Management Aufgabe
-  \item Brainstorming IT Leadership Workshop
-\end{itemize}
+\subsection{KW19 05.05-2025 - 09.05.2025: Erster Monat}
+Woche sechs begann mit einem Review-Gespräch über meinen ersten Monat bei BMW seitens Dominik. 
+Hier konnte ich ihm Feedback geben, bekam aber auch selbst sehr positives Feedback, sowie auch ein paar Tipps für meine restliche Zeit im Praktikum.
+Außerdem konnte ich hier eine kleine Idee hinsichtlich der Vereinfachung des Onboardingprozesses an Dominik pitchen. 
+Hierbei ging es um die Erstellung eines Onboarding-Chatbots mittels hauseigener BMW-KI, welche Zugriff auf verschiedenste Medien (z.B. Confluence, welches unsere Onboardinginformationen, sowie Abkürzungsverzeichnisse und weiteres beinhaltet) und KI-Modelle hat.
+Anschließend dazu hatte ich Gespräche mit weiteren Personen die sich mit dem Thema Künstliche Intelligenz stark auseinandersetzen.
+
+Hinsichtlich der Mitte der Woche beendete ich das Einfügen des zuvor fertiggestellten \ac{E2E}-Test-Manuals in das XRAY-system, sodass diese nun für den anstehenden Regular Release Testing Termine benutzt werden konnten.
+Auch der oft erwähnte Standardization-Onepager bekam in dieser Woche noch einmal Aufmerksamkeit bei einem Meeting mit Merle und ???, welcher eine ähnliche Idee in der Domäne vorantreibt und somit Gespräche über den Zusammenschluss geführt wurden.
+Der Onepager muss jedoch nicht nur gut aussehen, sondern letztendlich auch in jeder Applikation implementiert werden, sodass eine Standardisierung entsteht.
+Dafür traf ich mich mit Dominik für ein Brainstorming zum IT-Leadership Workshop, indem wir beide zwei Stunden zugewiesen bekamen, um diesen den einzelnen Product-Ownern vorzustellen und final einzusetzen.
 
 
 
 \subsection{KW20 12.05-2025 - 16.05.2025: Siebte Woche}
-
+\begin{itemize}
+  \item ITCS stuff
+  \item Release Management Aufgabe
+  \item Regular release testing mit meinen Tests
+  \item IT Leadership WS Vorbereitung
+  \item NAWI Nachwuchsprogramme Call
+  \item NCPA User Manual Update
+\end{itemize}
 
 \subsection{KW21 19.05-2025 - 23.05.2025: Achte Woche}
 
