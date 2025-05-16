@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber Semesterbericht"] 1746690435.13761 "Semesterbericht.bcf" "Semesterbericht.bbl" "Semesterbericht" 1746805903.37587 0
-  "Semesterbericht.bcf" 1746805903 107335 3c1d0a6a3116d465aa22a5a81619c522 "pdflatex"
+["biber Semesterbericht"] 1746690435.13761 "Semesterbericht.bcf" "Semesterbericht.bbl" "Semesterbericht" 1747396447.46212 0
+  "Semesterbericht.bcf" 1747396446 107335 3c1d0a6a3116d465aa22a5a81619c522 "pdflatex"
   (generated)
   "Semesterbericht.bbl"
   "Semesterbericht.blg"
   (rewritten before read)
-["pdflatex"] 1746805900.42845 "c:/Users/qte9912/Documents/Praxissemesterbericht/Praxissemesterbericht/tex/Semesterbericht.tex" "Semesterbericht.pdf" "Semesterbericht" 1746805903.37702 0
+["pdflatex"] 1747396442.29719 "c:/Users/qte9912/Documents/Praxissemesterbericht/Praxissemesterbericht/tex/Semesterbericht.tex" "Semesterbericht.pdf" "Semesterbericht" 1747396447.46398 0
   "C:/Users/qte9912/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746689151 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/qte9912/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1746688989 13158608 b1d9a37b18e980d7f21be1799fb8d5f3 ""
   "C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -204,23 +204,23 @@
   "C:/Users/qte9912/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/qte9912/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/qte9912/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "Kapitel/Einleitung.aux" 1746805902 4465 a7981f5da578574679cfdcf193e985f8 "pdflatex"
+  "Kapitel/Einleitung.aux" 1747396446 4465 a7981f5da578574679cfdcf193e985f8 "pdflatex"
   "Kapitel/Einleitung.tex" 1746690252 2955 2576a6ce85af12e3d54695f49624133b ""
-  "Kapitel/Projektbericht.aux" 1746805902 4569 b9a38b854b51b0e711938374825501a4 "pdflatex"
+  "Kapitel/Projektbericht.aux" 1747396446 4569 cc85f3ffaee9b5f61d28430435a74a80 "pdflatex"
   "Kapitel/Projektbericht.tex" 1746690252 113 6d272c3ecb496eafaae70909faac37d6 ""
-  "Kapitel/Titelseite.aux" 1746805902 4110 4c1c956d949f393c8e2edf70091ed904 "pdflatex"
+  "Kapitel/Titelseite.aux" 1747396446 4110 4c1c956d949f393c8e2edf70091ed904 "pdflatex"
   "Kapitel/Titelseite.tex" 1746690468 1035 b9bb017bfe264676ec439c9a797c58bf ""
-  "Kapitel/Vermerke.aux" 1746805902 4108 38d2e07238ba59e8634b9c83cfed58ec "pdflatex"
+  "Kapitel/Vermerke.aux" 1747396446 4108 38d2e07238ba59e8634b9c83cfed58ec "pdflatex"
   "Kapitel/Vermerke.tex" 1746690252 596 6b933c96c7581a0436920ccc5c309c00 ""
-  "Kapitel/Wochenberichte.aux" 1746805902 9511 326d789121c651490537f41a05e204c0 "pdflatex"
-  "Kapitel/Wochenberichte.tex" 1746805896 12367 1759dd92893015470a0c2d9a235ab66f ""
+  "Kapitel/Wochenberichte.aux" 1747396446 9555 040801df03881b8213be4fc1562fd4a2 "pdflatex"
+  "Kapitel/Wochenberichte.tex" 1747396435 14061 944e0c0beba7e9386e95cfbdbd6075ef ""
   "PersInfo.tex" 1746690252 701 49fa9d39729d2d2e501edd37a9219d11 ""
-  "Semesterbericht.aux" 1746805902 15463 c4e7581fb086bb05895abd206ce72b60 "pdflatex"
+  "Semesterbericht.aux" 1747396446 15727 5553627a602db4170f9d0133840ea6cc "pdflatex"
   "Semesterbericht.bbl" 1746690437 486 76d65a242ec496c9b4361af646ff12cb "biber Semesterbericht"
-  "Semesterbericht.out" 1746805902 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Semesterbericht.run.xml" 1746805903 2508 d6cf0dbb5630ccb88f34e314dd55c63e "pdflatex"
+  "Semesterbericht.out" 1747396445 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Semesterbericht.run.xml" 1747396446 2508 d6cf0dbb5630ccb88f34e314dd55c63e "pdflatex"
   "Semesterbericht.tex" 1746805408 1229 1646177806a536799f637aa0efe3717f ""
-  "Semesterbericht.toc" 1746805903 3096 5a92c2b20ee0078d2f982a8fb176a202 "pdflatex"
+  "Semesterbericht.toc" 1747396446 3121 5aacd5b41772ff5d2e241010f560830d "pdflatex"
   "c:/Users/qte9912/Documents/Praxissemesterbericht/Praxissemesterbericht/tex/Semesterbericht.tex" 1746805408 1229 1646177806a536799f637aa0efe3717f ""
   "img/THMA_Logo.jpeg" 1746690252 122737 ba1e112b986a418fb177660e49ed720e ""
   "img/bmwgroup.png" 1746690252 11025 846cafc8661e69ee4e1a1e5a031bc78e ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  9 MAY 2025 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  16 MAY 2025 13:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,27 +1271,34 @@ although it is yet undefined on input line 56.
 
 [7]
 
-[8])
+[8]
 
 [9]
+Overfull \hbox (2.90215pt too wide) in paragraph at lines 94--95
+[]\OT1/phv/m/n/13 Abseits der Ar-beit be-such-te ich Don-ners-tags in der Mit-tags-pau-se einen
+ []
+
+)
 
 [10]
-Overfull \vbox (82.77502pt too high) has occurred while \output is active []
-
-
 
 [11]
+Overfull \vbox (49.17673pt too high) has occurred while \output is active []
+
+
+
+[12]
 \openout2 = `Kapitel/Projektbericht.aux'.
 
  (Kapitel/Projektbericht.tex)
 
-[12
+[13
 
 
 
 ]
 
-[13
+[14
 
 
 ] (Semesterbericht.aux (Kapitel/Titelseite.aux) (Kapitel/Vermerke.aux) (Kapitel/Einleitung.aux) (Kapitel/Wochenberichte.aux) (Kapitel/Projektbericht.aux))
@@ -1311,17 +1318,17 @@ Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36872 strings out of 469941
- 736094 string characters out of 5468463
+ 36873 strings out of 469941
+ 736101 string characters out of 5468463
  1715255 words of memory out of 5000000
  63050 multiletter control sequences out of 15000+600000
  642968 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,20n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (17 pages, 240981 bytes).
+Output written on Semesterbericht.pdf (18 pages, 244009 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
- 73 named destinations out of 1000 (max. 500000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
