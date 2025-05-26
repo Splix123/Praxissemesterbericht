@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  16 MAY 2025 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  26 MAY 2025 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -33,12 +33,10 @@ Package: tocbasic 2024/10/24 v3.43 KOMA-Script package (handling toc-files)
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `toc' on input line 135.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 2466.
-
-(C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input line 2466.
+ (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize12pt.clo
+File: scrsize12pt.clo 2024/10/24 v3.43 KOMA-Script font size class option (12pt)
+) (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
 Package: typearea 2024/10/24 v3.43 KOMA-Script package (type area)
 \ta@bcor=\skip50
 \ta@div=\count272
@@ -52,31 +50,22 @@ Package typearea Info: You've used standard option `a4paper'.
 \ta@vblk=\skip52
 \ta@temp=\skip53
 \footheight=\skip54
-
-
-Package typearea Warning: DIV for 13.0pt and used papersize
-(typearea)                not defined!
-(typearea)                Using DIV=calc.
-
-
-Package typearea Info: DIV calculation for classic typearea. on input line 1802.
-
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 9
+(typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 398.33862pt
-(typearea)              DIV departure   = 0%
-(typearea)              \evensidemargin = 27.31467pt
-(typearea)              \oddsidemargin  = 27.31467pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 574.59857pt
-(typearea)              \topmargin      = -21.27576pt
-(typearea)              \headheight     = 19.49994pt
-(typearea)              \headsep        = 23.39993pt
-(typearea)              \topskip        = 13.0pt
-(typearea)              \footskip       = 54.59984pt
-(typearea)              \baselineskip   = 15.59996pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1802.
 )
 \c@part=\count273
@@ -1064,10 +1053,10 @@ Package tocbasic Info: setting babel extension for `lol' on input line 10.
 Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                Using scrlayer-scrpage the head height
 (scrlayer-scrpage)                should be at least \baselineskip, which is
-(scrlayer-scrpage)                19.49994pt currently.
+(scrlayer-scrpage)                17.99446pt currently.
 (scrlayer-scrpage)                But head height is currently 16.0pt only.
 (scrlayer-scrpage)                You may use
-(scrlayer-scrpage)                typearea option `headheight=19.49994pt'
+(scrlayer-scrpage)                typearea option `headheight=17.99446pt'
 (scrlayer-scrpage)                or load package `scrlayer-scrpage' with
 (scrlayer-scrpage)                option `singlespacing=true'
 (scrlayer-scrpage)                to avoid this warning.
@@ -1104,32 +1093,6 @@ File: img/THMA_Logo.jpeg Graphic file (type jpg)
 <use img/THMA_Logo.jpeg>
 Package pdftex.def Info: img/THMA_Logo.jpeg  used on input line 7.
 (pdftex.def)             Requested size: 111.52138pt x 42.67912pt.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 56.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 56.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13> not available
-(Font)              size <12> substituted on input line 56.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
-(Font)              size <6> substituted on input line 56.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 56.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
-(Font)              size <6> substituted on input line 56.
-
-
-LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 56.
-
 
 
 [1
@@ -1144,75 +1107,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
  []
 
 )
-Overfull \hbox (18.70192pt too wide) in paragraph at lines 18--14
-\OT1/phv/m/n/13 und ist da-her streng ver-trau-lich. Sie ist aus-schlie^^Y-lich als Pr[]ufungsvorlage
- []
-
-
 
 [2
 
 
 
-] (Semesterbericht.toc
-
-
-Package scrlayer-scrpage Warning: \headheight to low.
-(scrlayer-scrpage)                At least 19.49992pt needed,
-(scrlayer-scrpage)                but only 16.0pt found.
-(scrlayer-scrpage)                I'll enlarge \headheight, for further
-(scrlayer-scrpage)                processing, but you should do this yourself,
-(scrlayer-scrpage)                e.g., setting typearea's option
-(scrlayer-scrpage)                `headheight=19.49992pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 29.
-
-
-Overfull \vbox (3.49992pt too high) has occurred while \output is active []
-
- [1
-
-
-])
+] (Semesterbericht.toc)
 \tf@toc=\write7
 \openout7 = `Semesterbericht.toc'.
 
 
 
-Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 23.
-[2]
-\openout2 = `Kapitel/Einleitung.aux'.
 
- (Kapitel/Einleitung.tex
-Overfull \hbox (23.84987pt too wide) in paragraph at lines 3--7
-\OT1/phv/m/n/13 f[]uhrenden Pre-mi-um-her-stel-ler von Au-to-mo-bi-len und Mo-torr[]adern. W[]ahrend
- []
-
-
-Overfull \hbox (63.42989pt too wide) in paragraph at lines 3--7
-\OT1/phv/m/n/13 vol-le Ein-bli-cke in die Abl[]aufe und Her-aus-for-de-run-gen des IT-Projektmanagements
- []
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 17.99445pt needed,
+(scrlayer-scrpage)                but only 16.0pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting typearea's option
+(scrlayer-scrpage)                `headheight=17.99445pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 23.
 
 
-Overfull \hbox (3.2408pt too wide) in paragraph at lines 10--17
-\OT1/phv/m/n/13 vor-an, un-terst[]utzt die Ent-wick-lung in-tel-li-gen-ter Fer-ti-gungs-pro-zes-se und
- []
+Overfull \vbox (1.99445pt too high) has occurred while \output is active []
 
-
-
-[1
+ [1
 
 
 ]
+\openout2 = `Kapitel/Einleitung.aux'.
+
+ (Kapitel/Einleitung.tex
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 22.
  (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-))
-Overfull \hbox (0.61514pt too wide) in paragraph at lines 27--27
-\OT1/phv/m/n/13 wie Team-ar-beit, Kom-mu-ni-ka-ti-on und Pro-bleml[]osungsf[]ahigkeit st[]arken.
- []
+)
+
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 24.
+[1
 
 
+])
 
 [2]
 \openout2 = `Kapitel/Wochenberichte.aux'.
@@ -1226,6 +1162,8 @@ Package acronym Info: Label `acro:NCPA' newly defined as it shall be overridden
 although it is yet undefined on input line 9.
 Package acronym Info: Label `acro:CBS' newly defined as it shall be overridden
 although it is yet undefined on input line 11.
+Package acronym Info: Label `acro:UAT' newly defined as it shall be overridden
+although it is yet undefined on input line 15.
 
 
 [3
@@ -1233,34 +1171,22 @@ although it is yet undefined on input line 11.
 
 
 ]
-Package acronym Info: Label `acro:UAT' newly defined as it shall be overridden
-although it is yet undefined on input line 15.
-
-Overfull \hbox (2.92805pt too wide) in paragraph at lines 20--23
-\OT1/phv/m/n/13 be-ar-bei-te-te ich noch ei-ni-ge not-wen-di-gen on-li-ne Schu-lun-gen []uber Com-
- []
-
-
-
-[4]
 Package acronym Info: Label `acro:DOPM DC' newly defined as it shall be overridden
 although it is yet undefined on input line 32.
 Package acronym Info: Label `acro:OneGPM' newly defined as it shall be overridden
 although it is yet undefined on input line 32.
-Package acronym Info: Label `acro:E2E' newly defined as it shall be overridden
-although it is yet undefined on input line 35.
-Package acronym Info: Label `acro:NAWI' newly defined as it shall be overridden
-although it is yet undefined on input line 37.
 
-
-[5]
-Overfull \hbox (7.75223pt too wide) in paragraph at lines 41--46
-\OT1/phv/m/n/13 duk-ten be-spro-chen, so-dass es hier zu kei-nen unn[]otigen Verz[]ogerungen
+Overfull \hbox (5.83641pt too wide) in paragraph at lines 32--34
+[]\OT1/phv/m/n/12 Ebenfalls viel besch[]aftigt ha-be ich mich in die-ser Wo-che mit dem So-ge-nann-ten [][][]Domain
  []
 
+Package acronym Info: Label `acro:E2E' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
 
 
-[6]
+[4]
+Package acronym Info: Label `acro:NAWI' newly defined as it shall be overridden
+although it is yet undefined on input line 37.
 Package acronym Info: Label `acro:INT' newly defined as it shall be overridden
 although it is yet undefined on input line 55.
 Package acronym Info: Label `acro:OFCO' newly defined as it shall be overridden
@@ -1269,36 +1195,40 @@ Package acronym Info: Label `acro:AWS' newly defined as it shall be overridden
 although it is yet undefined on input line 56.
 
 
-[7]
-
-[8]
-
-[9]
-Overfull \hbox (2.90215pt too wide) in paragraph at lines 94--95
-[]\OT1/phv/m/n/13 Abseits der Ar-beit be-such-te ich Don-ners-tags in der Mit-tags-pau-se einen
+[5]
+Overfull \hbox (94.49355pt too wide) in paragraph at lines 70--75
+\OT1/phv/m/n/12 te Me-di-en (z.B. Con-flu-ence, wel-ches un-se-re On-boar-din-g-in-for-ma-tio-nen, so-wie Abk[]urzungsverzeichnisse
  []
 
-)
-
-[10]
-
-[11]
-Overfull \vbox (49.17673pt too high) has occurred while \output is active []
 
 
+[6]
 
-[12]
+[7]
+Overfull \hbox (5.44165pt too wide) in paragraph at lines 91--93
+[][]\OT1/phv/m/n/12 , in-dem ver-schie-dens-te Nach-wuch-s-pro-gram-me (wie z.B. das Fast-la-ne Pro-gramm
+ []
+
+Package acronym Info: Label `acro:CTW' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:PO' newly defined as it shall be overridden
+although it is yet undefined on input line 103.
+
+
+[8])
+
+[9]
 \openout2 = `Kapitel/Projektbericht.aux'.
 
  (Kapitel/Projektbericht.tex)
 
-[13
+[10
 
 
 
 ]
 
-[14
+[11
 
 
 ] (Semesterbericht.aux (Kapitel/Titelseite.aux) (Kapitel/Vermerke.aux) (Kapitel/Einleitung.aux) (Kapitel/Wochenberichte.aux) (Kapitel/Projektbericht.aux))
@@ -1306,11 +1236,6 @@ Overfull \vbox (49.17673pt too high) has occurred while \output is active []
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.0pt have occurred.
-
 Package rerunfilecheck Info: File `Semesterbericht.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
@@ -1318,17 +1243,17 @@ Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36873 strings out of 469941
- 736101 string characters out of 5468463
- 1715255 words of memory out of 5000000
+ 36877 strings out of 469941
+ 736225 string characters out of 5468463
+ 1716674 words of memory out of 5000000
  63050 multiletter control sequences out of 15000+600000
- 642968 words of font info for 68 fonts, out of 8000000 for 9000
+ 642966 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,20n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,19n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (18 pages, 244009 bytes).
+Output written on Semesterbericht.pdf (14 pages, 243964 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
+ 347 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
