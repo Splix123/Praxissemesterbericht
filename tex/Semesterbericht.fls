@@ -400,13 +400,6 @@ OUTPUT Kapitel\Titelseite.aux
 INPUT .\Kapitel\Titelseite.tex
 INPUT .\Kapitel\Titelseite.tex
 INPUT Kapitel\Titelseite.tex
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
-INPUT .\img\bmwgroup.png
 INPUT .\img\THMA_Logo.jpeg
 INPUT .\img\THMA_Logo.jpeg
 INPUT .\img\THMA_Logo.jpeg
@@ -414,6 +407,13 @@ INPUT .\img\THMA_Logo.jpeg
 INPUT .\img\THMA_Logo.jpeg
 INPUT .\img\THMA_Logo.jpeg
 INPUT .\img\THMA_Logo.jpeg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
+INPUT .\img\bmwgroup.jpg
 INPUT C:\Users\qte9912\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
 INPUT C:\Users\qte9912\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb7t.tfm
 INPUT C:\Users\qte9912\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  26 MAY 2025 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  5 JUN 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1083,22 +1083,22 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \openout2 = `Kapitel/Titelseite.aux'.
 
  (Kapitel/Titelseite.tex
-<img/bmwgroup.png, id=6, 602.25pt x 807.015pt>
-File: img/bmwgroup.png Graphic file (type png)
-<use img/bmwgroup.png>
-Package pdftex.def Info: img/bmwgroup.png  used on input line 5.
-(pdftex.def)             Requested size: 31.8419pt x 42.67912pt.
-<img/THMA_Logo.jpeg, id=7, 222.8325pt x 85.2786pt>
+<img/THMA_Logo.jpeg, id=6, 192.2382pt x 50.3481pt>
 File: img/THMA_Logo.jpeg Graphic file (type jpg)
 <use img/THMA_Logo.jpeg>
-Package pdftex.def Info: img/THMA_Logo.jpeg  used on input line 7.
-(pdftex.def)             Requested size: 111.52138pt x 42.67912pt.
+Package pdftex.def Info: img/THMA_Logo.jpeg  used on input line 4.
+(pdftex.def)             Requested size: 162.95737pt x 42.67912pt.
+<img/bmwgroup.jpg, id=7, 963.6pt x 318.43968pt>
+File: img/bmwgroup.jpg Graphic file (type jpg)
+<use img/bmwgroup.jpg>
+Package pdftex.def Info: img/bmwgroup.jpg  used on input line 6.
+(pdftex.def)             Requested size: 129.13937pt x 42.67912pt.
 
 
 [1
 
 
-{C:/Users/qte9912/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/bmwgroup.png> <./img/THMA_Logo.jpeg>])
+{C:/Users/qte9912/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/THMA_Logo.jpeg> <./img/bmwgroup.jpg>])
 \openout2 = `Kapitel/Vermerke.aux'.
 
  (Kapitel/Vermerke.tex
@@ -1218,17 +1218,19 @@ although it is yet undefined on input line 103.
 [8])
 
 [9]
+
+[10]
 \openout2 = `Kapitel/Projektbericht.aux'.
 
  (Kapitel/Projektbericht.tex)
 
-[10
+[11
 
 
 
 ]
 
-[11
+[12
 
 
 ] (Semesterbericht.aux (Kapitel/Titelseite.aux) (Kapitel/Vermerke.aux) (Kapitel/Einleitung.aux) (Kapitel/Wochenberichte.aux) (Kapitel/Projektbericht.aux))
@@ -1243,17 +1245,17 @@ Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36877 strings out of 469941
- 736225 string characters out of 5468463
+ 36878 strings out of 469941
+ 736232 string characters out of 5468463
  1716674 words of memory out of 5000000
  63050 multiletter control sequences out of 15000+600000
  642966 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  108i,19n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (14 pages, 243964 bytes).
+Output written on Semesterbericht.pdf (15 pages, 199925 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
+ 350 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,20 +13,20 @@
 \contentsline {subsection}{\numberline {2.8}KW21 19.05-2025 - 23.05.2025: IT-Leadership Workshop}{8}{subsection.24}%
 \contentsline {subsection}{\numberline {2.9}KW22 26.05-2025 - 30.05.2025: Christi Himmelfahrt}{9}{subsection.27}%
 \contentsline {subsection}{\numberline {2.10}KW23 02.06-2025 - 06.06.2025: Zehnte Woche}{9}{subsection.28}%
-\contentsline {subsection}{\numberline {2.11}KW24 09.06-2025 - 13.06.2025: Halbzeit}{9}{subsection.29}%
-\contentsline {subsection}{\numberline {2.12}KW25 16.06-2025 - 20.06.2025: Zwölfte Woche}{9}{subsection.30}%
-\contentsline {subsection}{\numberline {2.13}KW26 23.06-2025 - 27.06.2025: Dreizehnte Woche}{9}{subsection.31}%
-\contentsline {subsection}{\numberline {2.14}KW27 30.06-2025 - 04.07.2025: Vierzehnte Woche}{9}{subsection.32}%
-\contentsline {subsection}{\numberline {2.15}KW28 07.07-2025 - 11.07.2025: Fünfzehnte Woche}{9}{subsection.33}%
-\contentsline {subsection}{\numberline {2.16}KW29 14.07-2025 - 18.07.2025: Sechzehnte Woche}{9}{subsection.34}%
-\contentsline {subsection}{\numberline {2.17}KW30 21.07-2025 - 25.07.2025: Siebzehnte Woche}{9}{subsection.35}%
-\contentsline {subsection}{\numberline {2.18}KW31 28.07-2025 - 01.08.2025: Achtzehnte Woche}{9}{subsection.36}%
-\contentsline {subsection}{\numberline {2.19}KW32 04.08-2025 - 08.08.2025: Neunzehnte Woche}{9}{subsection.37}%
-\contentsline {subsection}{\numberline {2.20}KW33 11.08-2025 - 15.08.2025: Zwanzigste Woche}{9}{subsection.38}%
-\contentsline {subsection}{\numberline {2.21}KW34 18.08-2025 - 22.08.2025: Letzte Woche}{9}{subsection.39}%
-\contentsline {subsection}{\numberline {2.22}KW35 25.08-2025 - 26.08.2025: Abschied}{9}{subsection.40}%
-\contentsline {section}{\numberline {3}Projektbericht}{10}{section.41}%
-\contentsline {subsection}{\numberline {3.1}Abstract}{10}{subsection.42}%
-\contentsline {subsection}{\numberline {3.2}TBD. 1}{10}{subsection.43}%
-\contentsline {subsection}{\numberline {3.3}TBD. 2}{10}{subsection.44}%
-\contentsline {section}{Abkürzungen}{11}{section*.45}%
+\contentsline {subsection}{\numberline {2.11}KW24 09.06-2025 - 13.06.2025: Halbzeit}{10}{subsection.29}%
+\contentsline {subsection}{\numberline {2.12}KW25 16.06-2025 - 20.06.2025: Zwölfte Woche}{10}{subsection.30}%
+\contentsline {subsection}{\numberline {2.13}KW26 23.06-2025 - 27.06.2025: Dreizehnte Woche}{10}{subsection.31}%
+\contentsline {subsection}{\numberline {2.14}KW27 30.06-2025 - 04.07.2025: Vierzehnte Woche}{10}{subsection.32}%
+\contentsline {subsection}{\numberline {2.15}KW28 07.07-2025 - 11.07.2025: Fünfzehnte Woche}{10}{subsection.33}%
+\contentsline {subsection}{\numberline {2.16}KW29 14.07-2025 - 18.07.2025: Sechzehnte Woche}{10}{subsection.34}%
+\contentsline {subsection}{\numberline {2.17}KW30 21.07-2025 - 25.07.2025: Siebzehnte Woche}{10}{subsection.35}%
+\contentsline {subsection}{\numberline {2.18}KW31 28.07-2025 - 01.08.2025: Achtzehnte Woche}{10}{subsection.36}%
+\contentsline {subsection}{\numberline {2.19}KW32 04.08-2025 - 08.08.2025: Neunzehnte Woche}{10}{subsection.37}%
+\contentsline {subsection}{\numberline {2.20}KW33 11.08-2025 - 15.08.2025: Zwanzigste Woche}{10}{subsection.38}%
+\contentsline {subsection}{\numberline {2.21}KW34 18.08-2025 - 22.08.2025: Letzte Woche}{10}{subsection.39}%
+\contentsline {subsection}{\numberline {2.22}KW35 25.08-2025 - 26.08.2025: Abschied}{10}{subsection.40}%
+\contentsline {section}{\numberline {3}Projektbericht}{11}{section.41}%
+\contentsline {subsection}{\numberline {3.1}Abstract}{11}{subsection.42}%
+\contentsline {subsection}{\numberline {3.2}TBD. 1}{11}{subsection.43}%
+\contentsline {subsection}{\numberline {3.3}TBD. 2}{11}{subsection.44}%
+\contentsline {section}{Abkürzungen}{12}{section*.45}%
