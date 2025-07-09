@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  30 JUN 2025 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  9 JUL 2025 11:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -978,7 +978,10 @@ Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 10.
  (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-) (Semesterbericht.aux)
+) (Semesterbericht.aux (Kapitel/Titelseite.aux)
+Package babel Info: 'ngerman' activates 'ngerman' shorthands.
+(babel)             Reported  on input line 13.
+ (Kapitel/Vermerke.aux) (Kapitel/Einleitung.aux) (Kapitel/Wochenberichte.aux) (Kapitel/Projektbericht.aux))
 \openout1 = `Semesterbericht.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1058,9 +1061,8 @@ Package scrlayer-scrpage Warning: Very small head height detected!
 (scrlayer-scrpage)                option `singlespacing=true'
 (scrlayer-scrpage)                to avoid this warning.
 
-Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported  on input line 10.
 Package hyperref Info: Link coloring OFF on input line 10.
+(Semesterbericht.out) (Semesterbericht.out)
 \@outlinefile=\write6
 \openout6 = `Semesterbericht.out'.
 
@@ -1072,7 +1074,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 10.
-(C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+ (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\qte9912\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
@@ -1110,8 +1112,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
 
 
-]
-No file Semesterbericht.toc.
+] (Semesterbericht.toc)
 \tf@toc=\write7
 \openout7 = `Semesterbericht.toc'.
 
@@ -1125,7 +1126,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting typearea's option
 (scrlayer-scrpage)                `headheight=17.99445pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 23.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 25.
 
 
 Overfull \vbox (1.99445pt too high) has occurred while \output is active []
@@ -1155,51 +1156,14 @@ Package babel Info: 'ngerman' activates 'ngerman' shorthands.
  (Kapitel/Wochenberichte.tex
 Package acronym Info: Label `acro:DCM' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
-
-
-Package acronym Warning: Acronym DCM is not defined on input line 3.
-
-
-Package acronym Warning: Acronym DCM is not defined on input line 3.
-
 Package acronym Info: Label `acro:FIZ' newly defined as it shall be overridden
 although it is yet undefined on input line 3.
-
-Package acronym Warning: Acronym FIZ is not defined on input line 3.
-
-
-Package acronym Warning: Acronym FIZ is not defined on input line 3.
-
 Package acronym Info: Label `acro:NCPA' newly defined as it shall be overridden
 although it is yet undefined on input line 9.
-
-Package acronym Warning: Acronym NCPA is not defined on input line 9.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 9.
-
 Package acronym Info: Label `acro:CBS' newly defined as it shall be overridden
 although it is yet undefined on input line 11.
-
-Package acronym Warning: Acronym CBS is not defined on input line 11.
-
-
-Package acronym Warning: Acronym CBS is not defined on input line 11.
-
 Package acronym Info: Label `acro:UAT' newly defined as it shall be overridden
 although it is yet undefined on input line 15.
-
-Package acronym Warning: Acronym UAT is not defined on input line 15.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 15.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 15.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 15.
-
 
 
 [3
@@ -1207,229 +1171,53 @@ Package acronym Warning: Acronym UAT is not defined on input line 15.
 
 
 ]
-
-Package acronym Warning: Acronym NCPA is not defined on input line 21.
-
-
-Package acronym Warning: Acronym CBS is not defined on input line 28.
-
 Package acronym Info: Label `acro:DOPM DC' newly defined as it shall be overridden
 although it is yet undefined on input line 32.
-
-Package acronym Warning: Acronym DOPM DC is not defined on input line 32.
-
-
-Package acronym Warning: Acronym DOPM DC is not defined on input line 32.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 32.
-
 Package acronym Info: Label `acro:OneGPM' newly defined as it shall be overridden
 although it is yet undefined on input line 32.
-
-Package acronym Warning: Acronym OneGPM is not defined on input line 32.
-
-
-Package acronym Warning: Acronym OneGPM is not defined on input line 32.
-
-
-Package acronym Warning: Acronym DOPM DC is not defined on input line 32.
-
-
-Overfull \hbox (0.49648pt too wide) in paragraph at lines 32--34
-[]\OT1/phv/m/n/12 Ebenfalls viel besch[]aftigt ha-be ich mich in die-ser Wo-che mit dem So-ge-nann-ten [][][]\OT1/phv/b/n/12 DOPM
- []
-
 Package acronym Info: Label `acro:E2E' newly defined as it shall be overridden
 although it is yet undefined on input line 35.
-
-Package acronym Warning: Acronym E2E is not defined on input line 35.
-
-
-Package acronym Warning: Acronym E2E is not defined on input line 35.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 35.
-
 
 
 [4]
 Package acronym Info: Label `acro:NAWI' newly defined as it shall be overridden
 although it is yet undefined on input line 37.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 37.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 37.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 44.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 44.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 44.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 44.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 47.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 54.
-
 Package acronym Info: Label `acro:INT' newly defined as it shall be overridden
 although it is yet undefined on input line 55.
-
-Package acronym Warning: Acronym INT is not defined on input line 55.
-
-
-Package acronym Warning: Acronym INT is not defined on input line 55.
-
 Package acronym Info: Label `acro:OFCO' newly defined as it shall be overridden
 although it is yet undefined on input line 55.
-
-Package acronym Warning: Acronym OFCO is not defined on input line 55.
-
-
-Package acronym Warning: Acronym OFCO is not defined on input line 55.
-
 Package acronym Info: Label `acro:AWS' newly defined as it shall be overridden
 although it is yet undefined on input line 56.
-
-Package acronym Warning: Acronym AWS is not defined on input line 56.
-
-
-Package acronym Warning: Acronym AWS is not defined on input line 56.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 56.
-
-
-Package acronym Warning: Acronym AWS is not defined on input line 57.
-
-
-Package acronym Warning: Acronym UAT is not defined on input line 59.
-
 
 
 [5]
 
-Package acronym Warning: Acronym E2E is not defined on input line 64.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 64.
-
-
-Overfull \hbox (94.49355pt too wide) in paragraph at lines 70--75
-\OT1/phv/m/n/12 te Me-di-en (z.B. Con-flu-ence, wel-ches un-se-re On-boar-din-g-in-for-ma-tio-nen, so-wie Abk[]urzungsverzeichnisse
- []
-
-
-
 [6]
 
-Package acronym Warning: Acronym E2E is not defined on input line 76.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 92.
-
-
-
 [7]
-
-Package acronym Warning: Acronym NCPA is not defined on input line 100.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 100.
-
 Package acronym Info: Label `acro:CTW' newly defined as it shall be overridden
 although it is yet undefined on input line 101.
-
-Package acronym Warning: Acronym CTW is not defined on input line 101.
-
-
-Package acronym Warning: Acronym CTW is not defined on input line 101.
-
 Package acronym Info: Label `acro:PO' newly defined as it shall be overridden
 although it is yet undefined on input line 103.
 
-Package acronym Warning: Acronym PO is not defined on input line 103.
-
-
-Package acronym Warning: Acronym PO is not defined on input line 103.
-
-
 
 [8]
-
-Package acronym Warning: Acronym FIZ is not defined on input line 115.
-
 Package acronym Info: Label `acro:DMT' newly defined as it shall be overridden
 although it is yet undefined on input line 116.
-
-Package acronym Warning: Acronym DMT is not defined on input line 116.
-
-
-Package acronym Warning: Acronym DMT is not defined on input line 116.
-
-
-Package acronym Warning: Acronym NCPA is not defined on input line 116.
-
 Package acronym Info: Label `acro:JQL' newly defined as it shall be overridden
 although it is yet undefined on input line 117.
-
-Package acronym Warning: Acronym JQL is not defined on input line 117.
-
-
-Package acronym Warning: Acronym JQL is not defined on input line 117.
-
 Package acronym Info: Label `acro:SQL' newly defined as it shall be overridden
 although it is yet undefined on input line 117.
 
-Package acronym Warning: Acronym SQL is not defined on input line 117.
-
-
-Package acronym Warning: Acronym SQL is not defined on input line 117.
-
-
-Overfull \hbox (20.23616pt too wide) in paragraph at lines 121--123
-\OT1/phv/m/n/12 Woche zehn star-te-te wie-der mit Ge-spr[]achen []uber ein-zel-ne Aspek-te der IT-Standardizaton
+Underfull \hbox (badness 1831) in paragraph at lines 121--123
+\OT1/phv/m/n/12 Woche zehn star-te-te wie-der mit Ge-spr[]achen []uber ein-zel-ne Aspek-te der IT-
  []
-
-
-Package acronym Warning: Acronym DMT is not defined on input line 124.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 126.
 
 
 
 [9]
 
-Package acronym Warning: Acronym JQL is not defined on input line 133.
-
-
-Package acronym Warning: Acronym DMT is not defined on input line 134.
-
-
-Package acronym Warning: Acronym NAWI is not defined on input line 136.
-
-
-
 [10]
-Kapitel/Wochenberichte.tex:181: You can't use `macro parameter character #' in horizontal mode.
-l.181   \item C6 Planning WS #
-                              2
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
 
 [11])
 
@@ -1452,42 +1240,24 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Semesterbericht.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Semesterbericht.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Semesterbericht
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `Semesterbericht.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'Semesterbericht.run.xml'.
 \openout1 = `Semesterbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36866 strings out of 469941
- 735328 string characters out of 5468463
- 1699272 words of memory out of 5000000
- 63063 multiletter control sequences out of 15000+600000
+ 36913 strings out of 469941
+ 736627 string characters out of 5468463
+ 1717000 words of memory out of 5000000
+ 63077 multiletter control sequences out of 15000+600000
  642966 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 108i,19n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,20n,107p,10985b,2385s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/qte9912/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Semesterbericht.pdf (17 pages, 186114 bytes).
+Output written on Semesterbericht.pdf (17 pages, 209570 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
