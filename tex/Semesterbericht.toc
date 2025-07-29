@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {2.4}KW17 21.04-2025 - 25.04.2025: PTSO Domain Planning}{5}{subsection.17}%
 \contentsline {subsection}{\numberline {2.5}KW18 28.04-2025 - 02.05.2025: Vertretung}{6}{subsection.18}%
 \contentsline {subsection}{\numberline {2.6}KW19 05.05-2025 - 09.05.2025: Erster Monat}{7}{subsection.22}%
-\contentsline {subsection}{\numberline {2.7}KW20 12.05-2025 - 16.05.2025: IT Leadership Workshop vorbereitungen}{7}{subsection.23}%
+\contentsline {subsection}{\numberline {2.7}KW20 12.05-2025 - 16.05.2025: IT Leadership Workshop Vorbereitungen}{7}{subsection.23}%
 \contentsline {subsection}{\numberline {2.8}KW21 19.05-2025 - 23.05.2025: IT-Leadership Workshop}{8}{subsection.24}%
 \contentsline {subsection}{\numberline {2.9}KW22 26.05-2025 - 30.05.2025: CBS IT-Forum}{9}{subsection.27}%
 \contentsline {subsection}{\numberline {2.10}KW23 02.06-2025 - 06.06.2025: Release Management veröffentlichung}{9}{subsection.31}%
@@ -21,12 +21,18 @@
 \contentsline {subsection}{\numberline {2.16}KW29 14.07-2025 - 18.07.2025: Sechzehnte Woche}{11}{subsection.37}%
 \contentsline {subsection}{\numberline {2.17}KW30 21.07-2025 - 25.07.2025: Siebzehnte Woche}{12}{subsection.38}%
 \contentsline {subsection}{\numberline {2.18}KW31 28.07-2025 - 01.08.2025: Achtzehnte Woche}{12}{subsection.39}%
-\contentsline {subsection}{\numberline {2.19}KW32 04.08-2025 - 08.08.2025: Neunzehnte Woche}{12}{subsection.40}%
-\contentsline {subsection}{\numberline {2.20}KW33 11.08-2025 - 15.08.2025: Zwanzigste Woche}{12}{subsection.41}%
-\contentsline {subsection}{\numberline {2.21}KW34 18.08-2025 - 22.08.2025: Letzte Woche}{12}{subsection.42}%
-\contentsline {subsection}{\numberline {2.22}KW35 25.08-2025 - 26.08.2025: Abschied}{12}{subsection.43}%
-\contentsline {section}{\numberline {3}Projektbericht}{13}{section.44}%
-\contentsline {subsection}{\numberline {3.1}Abstract}{13}{subsection.45}%
-\contentsline {subsection}{\numberline {3.2}TBD. 1}{13}{subsection.46}%
-\contentsline {subsection}{\numberline {3.3}TBD. 2}{13}{subsection.47}%
-\contentsline {section}{Abkürzungen}{14}{section*.48}%
+\contentsline {subsection}{\numberline {2.19}KW32 04.08-2025 - 08.08.2025: Discount Management Tool Major Release 1}{12}{subsection.40}%
+\contentsline {subsection}{\numberline {2.20}KW33 11.08-2025 - 15.08.2025: Zwanzigste Woche}{13}{subsection.41}%
+\contentsline {subsection}{\numberline {2.21}KW34 18.08-2025 - 22.08.2025: Letzte Woche}{13}{subsection.42}%
+\contentsline {subsection}{\numberline {2.22}KW35 25.08-2025 - 26.08.2025: Abschied}{13}{subsection.43}%
+\contentsline {section}{\numberline {3}Projektbericht}{14}{section.44}%
+\contentsline {subsection}{\numberline {3.1}Abstract}{14}{subsection.45}%
+\contentsline {subsection}{\numberline {3.2}Einleitung}{14}{subsection.46}%
+\contentsline {subsection}{\numberline {3.3}Stand der Technik / Verwandte Arbeiten}{14}{subsection.47}%
+\contentsline {subsection}{\numberline {3.4}Grundlagen}{14}{subsection.48}%
+\contentsline {subsection}{\numberline {3.5}Lösung}{14}{subsection.49}%
+\contentsline {subsection}{\numberline {3.6}Implementierungskapitel}{15}{subsection.50}%
+\contentsline {subsection}{\numberline {3.7}Ausblick, weiterführende Arbeiten - optional}{15}{subsection.51}%
+\contentsline {subsection}{\numberline {3.8}Zusammenfassung}{15}{subsection.52}%
+\contentsline {subsection}{\numberline {3.9}Literaturverzeichnis}{15}{subsection.53}%
+\contentsline {section}{Abkürzungen}{16}{section*.54}%
